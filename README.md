@@ -2,19 +2,17 @@
 # 干果——简洁易用的gank客户端
 **介绍**
 ---------
-一款基于GankIo开发的练手项目。项目采用  MVP+Dagger2+Retrofit + RxJava开发。首页布局样式大致参考掘金客户端。
+一款基于GankIo开发的练手项目。项目采用  MVP+Dagger2+Retrofit + RxJava开发。
 
 **应用截图**
 -----------
-![image](https://github.com/yanyiqun001/ganguo/blob/master/screenshots/Screenshot_20170605-165508_%E7%BC%96%E8%BE%91.png?raw=true)
-![image](https://github.com/yanyiqun001/ganguo/blob/master/screenshots/Screenshot_20170605-165525_%E7%BC%96%E8%BE%91.png?raw=true)
-![image](https://github.com/yanyiqun001/ganguo/blob/master/screenshots/Screenshot_20170605-165650_%E7%BC%96%E8%BE%91.png?raw=true)
-![image](https://github.com/yanyiqun001/ganguo/blob/master/screenshots/Screenshot_20170605-165608_%E7%BC%96%E8%BE%91.png?raw=true)
+
+![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShoots/main.jpg)
+![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShoots/fuli.jpg)
+![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShoots/mine.jpg)
+![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShoots/night.jpg)
 
 
-**Gif**
-
-![image](https://github.com/yanyiqun001/ganguo/blob/master/screenshots/ezgif.com-resize.gif?raw=true)
 
 **特性**
 -----------
