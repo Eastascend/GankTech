@@ -45,4 +45,20 @@
 [Android MVP 架构必要知识：第二部分](https://juejin.im/entry/58a5992961ff4b006c4455e3?utm_source=gold-miner&utm_medium=readme&utm_campaign=github)
 如果不了解dagger2，理解起来有些困难。但整体架构思路非常清晰，model层次划分非常细致。
 
-* 日夜切换参考了[ZhihuDaily](https://github.com/hefuyicoder/ZhihuDaily) 项目以及 [知乎和简书的夜间模式实现套路](http://www.jianshu.com/p/3b55e84742e5)这篇文章。效果非常不错
+* 日夜切换参考了[ZhihuDaily](https://github.com/hefuyicoder/ZhihuDaily) 项目以及 [知乎和简书的夜间模式实现套路](http://www.jianshu.com/p/3b55e84742e5)这篇文章。效果很好
+
+
+
+/**
+ * Copyright (C) 2017 KevinWong Inc. All rights reserved.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */

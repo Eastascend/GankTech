@@ -1,8 +1,6 @@
 package com.gank;
 
-/**
- * Created by hefuyi on 16/7/30.
- */
+
 public class Constants {
 
     public static class Config {
