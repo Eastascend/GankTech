@@ -6,7 +6,6 @@ import android.content.Context;
 import com.facebook.stetho.Stetho;
 import com.gank.data.DataManager;
 import com.gank.di.component.ApplicationComponent;
-import com.gank.di.component.DaggerApplicationComponent;
 import com.gank.di.module.ApplicationModule;
 import com.gank.di.module.NetWorkModule;
 import com.gank.util.LogUtils;
@@ -30,7 +29,6 @@ public class GankApp extends Application {
     public void onCreate() {
         super.onCreate();
         context=getApplicationContext();
-        applicationComponent = DaggerApplicationComponent.builder().
                 applicationModule(new ApplicationModule(this)).
                 netWorkModule(new NetWorkModule(this)).
                 build();
@@ -62,6 +60,9 @@ public class GankApp extends Application {
      //   LeakCanary.install(this);
          Constants.isNight = dataManager.getTheme();
     }
+
+
+
 
     public ApplicationComponent getApplicationComponent() {
         return applicationComponent;

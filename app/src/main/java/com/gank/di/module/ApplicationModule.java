@@ -26,7 +26,7 @@ import dagger.Provides;
  * Created by Administrator on 2017/3/27 0027.
  */
 @Module
-public class ApplicationModule {
+public class  ApplicationModule {
     private final GankApp mApplication;
     public ApplicationModule(GankApp application) {
         this.mApplication=application;
