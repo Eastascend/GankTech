@@ -7,10 +7,14 @@
 **应用截图**
 -----------
 
-![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShoots/main.jpg)
-![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShoots/fuli.jpg)
-![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShoots/mine.jpg)
-![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShoots/night.jpg)
+![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShots/1.png)
+![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShots/2.png)
+![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShots/3.png)
+![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShots/4.png)
+![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShots/5.png)
+![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShots/6.png)
+![image](https://github.com/Eastascend/GankTech/blob/master/ScreenShots/7.gif)
+
 
 
 
