@@ -15,9 +15,6 @@ import com.squareup.leakcanary.LeakCanary;
 import javax.inject.Inject;
 
 
-/**
- * Created by Administrator on 2017/3/27 0027.
- */
 
 public class GankApp extends Application {
     private static Context context;
